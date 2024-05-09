@@ -9,7 +9,7 @@ Profil LinkedIn : https://www.linkedin.com/in/gkossi/
 
 # Contextualisation du Projet
 
-![1-Praxis::société coopérative et participative] ![](images/praxis.png)
+![1-Praxis :: Société Coopérative et Participative] ![](images/praxis.png)
 
 ***Praxis*** est une société coopérative et participative (SCOP) qui développe une plateforme permettant de cartographier les cavistes qui vendent du vin totalement naturel.
 
